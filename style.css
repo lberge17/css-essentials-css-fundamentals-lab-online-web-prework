@@ -5,12 +5,15 @@ body {
 }
 
 header {
-  text-align: center;
-  marg
+  margin: auto;
 }
 
 img {
-  
+  margin: auto;
+}
+
+a {
+  padding: 10px;
 }
 
 
